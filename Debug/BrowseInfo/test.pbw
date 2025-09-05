@@ -1,0 +1,86 @@
+[
+  {
+    "ID": "c:@F@test",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void test(int *)",
+    "location": {
+      "column": "6",
+      "line": "1",
+      "path": "D:\\__MY_PROJECT__\\IAR\\test\\main.c"
+    },
+    "name": "test",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@test1",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void test1(int)",
+    "location": {
+      "column": "6",
+      "line": "2",
+      "path": "D:\\__MY_PROJECT__\\IAR\\test\\main.c"
+    },
+    "name": "test1",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@test",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void test(int *)",
+    "location": {
+      "column": "6",
+      "line": "3",
+      "path": "D:\\__MY_PROJECT__\\IAR\\test\\main.c"
+    },
+    "name": "test",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@test1",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void test1(int)",
+    "location": {
+      "column": "6",
+      "line": "8",
+      "path": "D:\\__MY_PROJECT__\\IAR\\test\\main.c"
+    },
+    "name": "test1",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@main",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "int main(void)",
+    "location": {
+      "column": "5",
+      "line": "13",
+      "path": "D:\\__MY_PROJECT__\\IAR\\test\\main.c"
+    },
+    "name": "main",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@138@F@main@a",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "a",
+    "location": {
+      "column": "7",
+      "line": "16",
+      "path": "D:\\__MY_PROJECT__\\IAR\\test\\main.c"
+    },
+    "name": "a",
+    "origin": "project_file",
+    "scope": null
+  }
+]
