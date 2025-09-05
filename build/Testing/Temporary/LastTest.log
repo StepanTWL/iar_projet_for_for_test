@@ -1,0 +1,19 @@
+Start testing: Sep 05 12:10 Финляндия (лето)
+----------------------------------------------------------
+Test not available without configuration.  (Missing "-C <config>"?)
+1/1 Testing: test2
+1/1 Test: test2
+Command: "NOT_AVAILABLE"
+Directory: D:/__MY_PROJECT__/IAR/test/build
+"test2" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"test2" end time: Sep 05 12:10 Финляндия (лето)
+"test2" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Sep 05 12:10 Финляндия (лето)

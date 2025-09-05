@@ -1,0 +1,10 @@
+# CMake generation dependency list for this directory.
+C:/mingw64/share/cmake-3.26/Modules/CheckCSourceCompiles.cmake
+C:/mingw64/share/cmake-3.26/Modules/CheckIncludeFile.cmake
+C:/mingw64/share/cmake-3.26/Modules/CheckLibraryExists.cmake
+C:/mingw64/share/cmake-3.26/Modules/FindPackageHandleStandardArgs.cmake
+C:/mingw64/share/cmake-3.26/Modules/FindPackageMessage.cmake
+C:/mingw64/share/cmake-3.26/Modules/FindThreads.cmake
+D:/__MY_PROJECT__/IAR/test/build/_deps/googletest-src/googlemock/CMakeLists.txt
+D:/__MY_PROJECT__/IAR/test/build/_deps/googletest-src/googlemock/cmake/gmock.pc.in
+D:/__MY_PROJECT__/IAR/test/build/_deps/googletest-src/googlemock/cmake/gmock_main.pc.in
