@@ -1,7 +1,7 @@
 #include <gtest/gtest.h>
 
-extern "C" int test1(int x);
+extern "C" int test2(int x);
 
-TEST(Test1Suite, SimpleExample) {
-    EXPECT_EQ(test1(1), 1); // замените на правильное ожидаемое значение
+TEST(Test2Suite, SimpleExample) {
+    EXPECT_EQ(test2(1), 1); // замените на правильное ожидаемое значение
 }
