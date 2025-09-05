@@ -12,7 +12,7 @@ if (MSVC)
     set(gtest_force_shared_crt ON CACHE BOOL "" FORCE)
 endif()
 
-add_executable(main main.c)
+add_executable(main main.cpp)
 
 # GoogleTest через FetchContent
 include(FetchContent)

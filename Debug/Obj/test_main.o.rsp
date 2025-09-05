@@ -1,0 +1,1 @@
+﻿d:\__MY_PROJECT__\IAR\test\test_main.cpp -o d:\__MY_PROJECT__\IAR\test\Debug\Obj\ --no_cse --no_unroll --no_inline --no_code_motion --no_tbaa --no_clustering --no_scheduling --debug --endian=little --cpu=Cortex-M3 -e --fpu=None --dlib_config "C:\Program Files\IAR Systems\Embedded Workbench 9.0\arm\inc\c\DLib_Config_Normal.h" -On --c++ --no_exceptions --no_rtti
